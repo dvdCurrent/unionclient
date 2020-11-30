@@ -4,3 +4,4 @@ It is there to educate about how hacking works! I do not take any responsibility
 
 # Copyright dvd
 You may not reuse/take any of my code! Its mine!!! Not yours!! Just joking, do what ever the fuck you want with it!
+Its our code!
