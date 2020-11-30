@@ -1,0 +1,5 @@
+**Commands**
+.clip x y z
+.toggle modname
+.fakeplayer add / .fakeplayer add name / .fakeplayer remove / .fakeplayer clear
+.m goto x y z / .m stop
