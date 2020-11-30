@@ -1,0 +1,48 @@
+**Modules Combat**
+- Killaura 
+- Criticals
+- Crystal Aura
+- Auto Totem
+- Auto disconnect
+- Hole/Void ESP
+- Velocity
+- Surround
+
+**Modules Render**
+- Esp
+- Tracers
+- FOV
+- Better F3
+- Fullbright
+- GuiInfo
+- GuiArrayList
+- New Chunks
+- freecam
+- x-ray
+- Nametags
+- LogoutRender
+- 
+
+**Modules Movement**
+- AImove
+- Speed
+- elytra fly
+- boatfly
+- Jesus
+- flight
+
+**Modules Player**
+- No fall
+- refill
+- Scaffold
+- Auto Wither
+- Death
+- Blink
+- PlaceBypass
+
+**Modules Chat**
+- Auto reply
+- Spam
+- EzzzChat
+- Secret Chat
+- Chat Formatter
