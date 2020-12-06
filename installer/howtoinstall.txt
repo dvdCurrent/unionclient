@@ -1,0 +1,3 @@
+Run the installer!
+Make sure the correct destination is selected.
+After that open the minecraft launcher and make a new profile!
