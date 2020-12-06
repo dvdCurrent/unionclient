@@ -1,7 +1,0 @@
-#How to install!
-
-1) Download the unionclient.zip
-2) Unzip the downloaded file
-3) Copy the whole folder into your .minecraft/versions folder (it should look like this: .minecraft/versions/unionclient/unionclient.jar)
-4) Launch your mc launcher and create a new profile with unionclient selected
-5) Have fun!
